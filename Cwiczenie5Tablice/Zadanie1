@@ -1,0 +1,16 @@
+package pl.samouczekprogramisty.kursjava.cwiczenie5tablice;
+
+public class Zadanie1 {
+    public Zadanie1() {
+    }
+
+    public static int suma(int[] array) {
+        return array[0] + array[1];
+    }
+
+    public static void main(String[] args) {
+        new Zadanie1();
+        int[] array = new int[]{45, 33};
+        System.out.println(suma(array));
+    }
+}
