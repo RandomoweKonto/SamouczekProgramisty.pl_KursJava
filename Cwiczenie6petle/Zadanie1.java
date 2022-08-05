@@ -1,7 +1,7 @@
 //1. Poza poznanym dzisiaj operatorem ++ istnieje też jego odpowiednik zmniejszający wartość zmiennej o 1.
 // Jest nim --. Napisz program, który wypisze na ekranie malejąco wszystkie liczby od 20 do 10.
 
-package pl.samouczekprogramisty.kursjava.cwiczenie6petle;
+package pl.samouczekprogramisty.kursjava.cwiczenie6Petle;
 
 public class Zadanie1 {
 
